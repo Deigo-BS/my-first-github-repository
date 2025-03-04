@@ -2,3 +2,5 @@
 Here is my first GitHub repository. Let's get started with GitHub
 
 This line was modified manually during conflicts resolution
+
+Modificación personal en español, tras entender la sección 16~17
